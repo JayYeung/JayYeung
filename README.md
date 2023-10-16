@@ -29,11 +29,11 @@ Hello, I'm Jay Yeung, a Computer Science student at UC Berkeley. I have a strong
  
 ## Projects 🚀
 
-### ASL to Text 🤟 👌
+### ASL to Text 🤟 
 - **Technologies**: Python, Javascript, TensorFlow, Pose Estimation
 - **Description**: Built a website that converts sign language to text in real-time.
 
-### Snap Detection
+### Snap Detection 👌
 - **Technologies**: Python, TensorFlow.Keras, Librosa, PyAudio
 - **Description**: Developed a neural network that detects finger snaps.
 
