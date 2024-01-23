@@ -8,24 +8,38 @@ Hello, I'm Jay Yeung, a Computer Science student at UC Berkeley. I have a strong
 
 ## Experience 🌟
 
-### Broker Brain 🏠
+# Jay Yeung
+
+## Current Roles
+
+### Undergraduate Researcher
+**Berkeley Artificial Intelligence Research (BAIR) - Apprenticeship**  
+- **Role**: Undergraduate Researcher
+- **Responsibilities**:
+  - Engaging in research with the Berkeley Speech Group on AI and speech recognition technologies.
+
+### SWE Consultant
+**GitHub**  
+- **Role**: SWE Consultant
+- **Responsibilities**:
+  - Automated tagging of repositories using NLP and LLMs.
+
+### Berkeley URAP Research - Artificial Intelligence for Community Health Workers
+**University of California, Berkeley - Internship**  
+- **Role**: Research Intern
+- **Responsibilities**:
+  - Developed a chatbot proof of concept for community health workers.
+  - Created a searchable database of clinical guidelines.
+
+## Past Experience
+
+### Founding AI Lead
+**Broker Brain 🏠**  
 - **Role**: Founding AI Lead
-- **Responsibilities**: 
-  - Enhanced house search experience through AI-powered algorithms.
-  - Generated engaging blogs and property descriptions using Chat GPT 4.
-  - Parsed and processed MLS data, optimizing storage and retrieval with MongoDB.
-
-### NXP Semiconductors N.V. 🤖
-- **Role**: Summer AI Intern
-- **Responsibilities**: 
-  - Leveraged AI software algorithms to reduce ATE debug time.
-  - Created a Perl program to convert firmware code from binary to ATE code format.
-
-### University of Maryland MIND Lab 🧠
-- **Role**: Computer Science Research Intern
-- **Responsibilities**: 
-  - Analyzed respiration, movement, and heart rate data collected from Spire tag.
-  - Implemented a Python program for data cleaning using quadratic regression.
+- **Responsibilities**:
+  - Enhanced house search experience with AI algorithms.
+  - Generated blogs and property descriptions using Chat GPT 4.
+  - Processed MLS data, optimizing with MongoDB.
  
 ## Projects 🚀
 
