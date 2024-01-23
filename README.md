@@ -13,7 +13,7 @@ Hello, I'm Jay Yeung, a Computer Science student at UC Berkeley. I have a strong
 ## Current Roles
 
 ### Undergraduate Researcher
-**Berkeley Artificial Intelligence Research (BAIR) - Apprenticeship**  
+**Berkeley Artificial Intelligence Research (BAIR)**  
 - **Role**: Undergraduate Researcher
 - **Responsibilities**:
   - Engaging in research with the Berkeley Speech Group on AI and speech recognition technologies.
@@ -24,14 +24,12 @@ Hello, I'm Jay Yeung, a Computer Science student at UC Berkeley. I have a strong
 - **Responsibilities**:
   - Automated tagging of repositories using NLP and LLMs.
 
-### Berkeley URAP Research - Artificial Intelligence for Community Health Workers
-**University of California, Berkeley - Internship**  
+### Undergraduate Researcher
+**URAP - AI  for Community Health Workers**  
 - **Role**: Research Intern
 - **Responsibilities**:
   - Developed a chatbot proof of concept for community health workers.
   - Created a searchable database of clinical guidelines.
-
-## Past Experience
 
 ### Founding AI Lead
 **Broker Brain 🏠**  
