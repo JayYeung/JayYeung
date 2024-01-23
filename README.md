@@ -8,10 +8,6 @@ Hello, I'm Jay Yeung, a Computer Science student at UC Berkeley. I have a strong
 
 ## Experience 🌟
 
-# Jay Yeung
-
-## Current Roles
-
 ### Berkeley Artificial Intelligence Research (BAIR) 🧠
 - **Role**: Undergraduate Researcher
 - **Responsibilities**:
